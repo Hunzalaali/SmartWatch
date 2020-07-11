@@ -1,0 +1,68 @@
+body{
+    background-color: grey;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.time{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.digits{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+    margin: 5%;
+    font-size: 40px;
+}
+
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.b{
+    padding: 10px 25px;
+}
+
+.record{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.r{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btnDelete{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
